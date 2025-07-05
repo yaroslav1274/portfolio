@@ -160,7 +160,7 @@ export const projects = [
       { name: "GSAP", color: "pink-text-gradient" },
     ],
     image: brainwave,
-    source_code_link: "https://shrinkme.ink/brainwave",
+    source_code_link: "https://yaroslav1274.github.io/brainwave",
   },
   {
     name: "Night Drive",
