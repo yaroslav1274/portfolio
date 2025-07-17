@@ -49,7 +49,7 @@ const About = () => {
       >
         I’m a web developer and a student at Lviv National University of Ivan
         Franko, passionate about building responsive and user-friendly websites.
-        I'm working with modern web technologies and constantly improve my
+        I'm working with modern web technologies and constantly improving my
         skills through hands-on projects. Motivated and curious, I’m ready to
         contribute and keep learning.
       </motion.p>
